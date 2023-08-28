@@ -21,9 +21,6 @@
 	path = gdb
 	url = https://github.com/StMiky/xcarus-binutils-gdb.git
 	branch = gdb-12-branch
-[submodule "qemu"]
-	path = qemu
-	url = https://gitlab.com/qemu-project/qemu.git
 [submodule "musl"]
 	path = musl
 	url = https://git.musl-libc.org/git/musl
